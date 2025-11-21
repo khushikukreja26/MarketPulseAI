@@ -118,6 +118,4 @@ Khushi Kukreja
 ⸻
 
 🪪 License
-
-This project uses free, publicly available data from TheMealDB.com
 Source code © 2025 – Created for educational and demonstration purposes.
