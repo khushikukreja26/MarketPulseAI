@@ -1,0 +1,22 @@
+# --- Python backend ---
+marketpulse-backend/venv/
+marketpulse-backend/.env
+marketpulse-backend/firebase-service-account.json
+__pycache__/
+*.pyc
+
+# --- Android / Gradle ---
+.gradle/
+**/build/
+local.properties
+*.iml
+.idea/
+
+# Android Studio generated
+captures/
+.externalNativeBuild/
+.cxx/
+
+# OS noise
+.DS_Store
+Thumbs.db
