@@ -104,3 +104,20 @@ MarketPulseAI/
    │  └─ MarketPulseApp.kt              # Application class (Hilt)
    ├─ app/build.gradle.kts
    └─ settings.gradle.kts
+
+```
+👨‍💻 Author
+
+Khushi Kukreja
+🎓 B.Tech (CSE), VIT Bhopal University
+💼 Android Developer | Kotlin | Compose | AI Integration
+
+🌐 GitHub : https://github.com/khushikukreja26
+🔗 LinkedIn : https://www.linkedin.com/in/khushi-kukreja-217959251/
+
+⸻
+
+🪪 License
+
+This project uses free, publicly available data from TheMealDB.com
+Source code © 2025 – Created for educational and demonstration purposes.
